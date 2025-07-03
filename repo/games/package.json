@@ -1,0 +1,11 @@
+{
+    "denumguess": {
+        "category": "games",
+        "version": ["1.0", "1.1", "1.2", "2.0", "2.1", "2.2"],
+        "version_code": ["1000", "1100", "1200", "2000", "2100", "2200"],
+        "latest_version": "2.2",
+        "latest_version_code": "2200",
+        "author": "ElofHew",
+        "description": "A simple number guessing game."
+    }
+}
