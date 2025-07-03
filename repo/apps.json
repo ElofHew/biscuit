@@ -6,5 +6,9 @@
     "fluentchat": {
         "category": "tools", 
         "latest_version_code": "1000"
+    },
+    "petmyice": {
+        "category": "games",
+        "latest_version_code": "0001"
     }
 }

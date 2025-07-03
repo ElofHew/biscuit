@@ -7,5 +7,14 @@
         "latest_version_code": "2200",
         "author": "ElofHew",
         "description": "A simple number guessing game."
-    }
+    },
+    "petmyice": {
+        "category": "games",
+        "version": ["0.01"],
+        "version_code": ["0001"],
+        "latest_version": "0.01",
+        "latest_version_code": "0001",
+        "author": "minqwq",
+        "description": "PetMyIce in Python3."
+    } 
 }
