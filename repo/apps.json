@@ -10,5 +10,9 @@
     "petmyice": {
         "category": "games",
         "latest_version_code": "0001"
+    },
+    "minqwqlife": {
+        "category": "games",
+        "latest_version_code": "0002"
     }
 }

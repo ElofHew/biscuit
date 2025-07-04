@@ -16,5 +16,14 @@
         "latest_version_code": "0001",
         "author": "minqwq",
         "description": "PetMyIce in Python3."
+    },
+    "minqwqlife": {
+        "category": "games",
+        "version": ["0.2"],
+        "version_code": ["0002"],
+        "latest_version": "0.2",
+        "latest_version_code": "0002",
+        "author": "minqwq",
+        "description": "minqwq's life official galgame."
     } 
 }
