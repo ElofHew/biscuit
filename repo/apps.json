@@ -14,5 +14,21 @@
     "minqwqlife": {
         "category": "games",
         "latest_version_code": "0002"
+    },
+    "pyos_finguess": {
+        "category": "games",
+        "latest_version_code": "1000"
+    },
+    "pyos_numguess": {
+        "category": "games",
+        "latest_version_code": "1000"
+    },
+    "snake": {
+        "category": "games",
+        "latest_version_code": "1000"
+    },
+    "tetris": {
+        "category": "games",
+        "latest_version_code": "1000"
     }
 }

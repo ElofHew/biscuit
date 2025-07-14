@@ -25,5 +25,41 @@
         "latest_version_code": "0002",
         "author": "minqwq",
         "description": "minqwq's life official galgame."
-    } 
+    },
+    "pyos_finguess": {
+        "category": "games",
+        "version": ["1.0"],
+        "version_code": ["1000"],
+        "latest_version": "1.0",
+        "latest_version_code": "1000",
+        "author": "MeltIce",
+        "description": "PyOS Finger Guessing Game."
+    },
+    "pyos_numguess": {
+        "category": "games",
+        "version": ["1.0"],
+        "version_code": ["1000"],
+        "latest_version": "1.0",
+        "latest_version_code": "1000",
+        "author": "MeltIce",
+        "description": "PyOS Number Guessing Game."
+    },
+    "snake": {
+        "category": "games",
+        "version": ["1.0"],
+        "version_code": ["1000"],
+        "latest_version": "1.0",
+        "latest_version_code": "1000",
+        "author": "bibimingming",
+        "description": "Snake Game in Python3."
+    },
+    "tetris": {
+        "category": "games",
+        "version": ["1.0"],
+        "version_code": ["1000"],
+        "latest_version": "1.0",
+        "latest_version_code": "1000",
+        "author": "bibimingming",
+        "description": "Tetris Game in Python3."
+    }
 }
