@@ -10,10 +10,10 @@
     },
     "komfetch": {
         "category": "tools",
-        "version": ["1.0"],
-        "version_code": ["1000"],
-        "latest_version": "1.0",
-        "latest_version_code": "1000",
+        "version": ["1.0", "1.1"],
+        "version_code": ["1000", "1100"],
+        "latest_version": "1.1",
+        "latest_version_code": "1100",
         "author": "ElofHew",
         "description": "KomFetch for Quarter OS"
     },
